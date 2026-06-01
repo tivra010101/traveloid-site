@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.zorithm.traveloid",
+      "package_name": "com.zorithm.traveloid.traveloid",
       "sha256_cert_fingerprints": [
         "6A:DB:8D:C2:D7:81:33:D7:AD:BA:E8:63:E9:A3:7B:CB:11:A5:C8:19:CB:96:F5:A9:CA:B7:64:66:48:8D:D9:5B"
       ]
