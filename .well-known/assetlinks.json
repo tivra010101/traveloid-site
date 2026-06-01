@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zorithm.traveloid",
+      "sha256_cert_fingerprints": [
+        "6a:db:8d:c2:d7:81:33:d7:ad:ba:e8:63:e9:a3:7b:cb:11:a5:c8:19:cb:96:f5:a9:ca:b7:64:66:48:8d:d9:5b"
+      ]
+    }
+  }
+]
